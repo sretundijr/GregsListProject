@@ -1,0 +1,26 @@
+.container{
+	position: relative;
+}
+
+nav{
+	background-color: lightgrey;
+	position: fixed;
+	vertical-align: center;
+	width: 100%;
+}
+
+nav .nav-logo{
+	font-size: 20px;
+	left: 20px;
+	float: left;
+}
+
+nav ul{
+	display: inline-block;
+	position: absolute;
+	right: 50px;
+}
+
+nav li{
+	display: inline-block;
+}
